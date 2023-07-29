@@ -7,3 +7,4 @@
 
 # 실행 화면
 
+![ezgif com-video-to-gif (13)](https://github.com/taeyoonL/swipe/assets/132141316/ba136b7d-4349-4d51-9bfe-52597022eb3d)
